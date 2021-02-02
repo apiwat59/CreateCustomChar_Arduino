@@ -1,0 +1,15 @@
+C:\Users\GASZA\Desktop\Project\CreateCustomChar\CreateCustomChar\bin\Release\CreateCustomChar.exe.config
+C:\Users\GASZA\Desktop\Project\CreateCustomChar\CreateCustomChar\bin\Release\CreateCustomChar.exe
+C:\Users\GASZA\Desktop\Project\CreateCustomChar\CreateCustomChar\bin\Release\CreateCustomChar.pdb
+C:\Users\GASZA\Desktop\Project\CreateCustomChar\CreateCustomChar\obj\Release\CreateCustomChar.DigitLCD.resources
+C:\Users\GASZA\Desktop\Project\CreateCustomChar\CreateCustomChar\obj\Release\CreateCustomChar.Main.resources
+C:\Users\GASZA\Desktop\Project\CreateCustomChar\CreateCustomChar\obj\Release\CreateCustomChar.Properties.Resources.resources
+C:\Users\GASZA\Desktop\Project\CreateCustomChar\CreateCustomChar\obj\Release\CreateCustomChar.csproj.GenerateResource.cache
+C:\Users\GASZA\Desktop\Project\CreateCustomChar\CreateCustomChar\obj\Release\CreateCustomChar.csproj.CoreCompileInputs.cache
+C:\Users\GASZA\Desktop\Project\CreateCustomChar\CreateCustomChar\obj\Release\CreateCustomChar.exe
+C:\Users\GASZA\Desktop\Project\CreateCustomChar\CreateCustomChar\obj\Release\CreateCustomChar.pdb
+C:\Users\GASZA\Desktop\Project\CreateCustomChar\CreateCustomChar\obj\Release\CreateCustomChar.csprojAssemblyReference.cache
+C:\Users\GASZA\Desktop\Project\CreateCustomChar\CreateCustomChar\bin\Release\Config.json
+C:\Users\GASZA\Desktop\Project\CreateCustomChar\CreateCustomChar\bin\Release\Newtonsoft.Json.dll
+C:\Users\GASZA\Desktop\Project\CreateCustomChar\CreateCustomChar\bin\Release\Newtonsoft.Json.xml
+C:\Users\GASZA\Desktop\Project\CreateCustomChar\CreateCustomChar\obj\Release\CreateCustomChar.csproj.CopyComplete
