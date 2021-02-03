@@ -1,4 +1,4 @@
 {
     "Interfacing_I2C": "#include <Wire.h> \n #include <LiquidCrystal_I2C.h> \n LiquidCrystal_I2C lcd(0x3F, 16, 2); \n//Variable\nvoid setup() { \nlcd.begin(); \nlcd.createChar(0, customChar);\nlcd.home(); \nlcd.write(0); } \nvoid loop() { }",
-    "Interfacing_Parallel": "#include <LiquidCrystal_I2C.h> \n LiquidCrystal lcd(12, 11, 5, 4, 3, 2); // RS, E, D4, D5, D6, D7 \n//Variable\nvoid setup() { \nlcd.begin(); \nlcd.createChar(0, customChar);\nlcd.home(); \nlcd.write(0); } \nvoid loop() { }"
+    "Interfacing_Parallel": "#include <LiquidCrystal.h>\n LiquidCrystal lcd(12, 11, 5, 4, 3, 2);\n //Variable\nvoid setup() { \nlcd.begin(16, 2); \nlcd.createChar(0, love1); \nlcd.setCursor(3,1); \nlcd.write((uint8_t)0); \n} \nvoid loop() { }"
 }

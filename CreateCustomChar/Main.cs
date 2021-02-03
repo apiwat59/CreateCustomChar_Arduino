@@ -136,14 +136,14 @@ namespace CreateCustomChar
                                         {
                                             string s = TB_Log.Text;
                                             s = s.Replace("//Variable", $"byte {TB_VarialbleName.Text}{z}[8] = {(char)123}" + Environment.NewLine +
-                                                $"B{getBinaryfromArray(z, 1)}," + Environment.NewLine +
-                                                $"B{getBinaryfromArray(z, 2)}," + Environment.NewLine +
-                                                $"B{getBinaryfromArray(z, 3)}," + Environment.NewLine +
-                                                $"B{getBinaryfromArray(z, 4)}," + Environment.NewLine +
-                                                $"B{getBinaryfromArray(z, 5)}," + Environment.NewLine +
-                                                $"B{getBinaryfromArray(z, 6)}," + Environment.NewLine +
-                                                $"B{getBinaryfromArray(z, 7)}," + Environment.NewLine +
-                                                $"B{getBinaryfromArray(z, 8)}{(char)125};" + Environment.NewLine + "//Variable");
+                                                $"0b{getBinaryfromArray(z, 1)}," + Environment.NewLine +
+                                                $"0b{getBinaryfromArray(z, 2)}," + Environment.NewLine +
+                                                $"0b{getBinaryfromArray(z, 3)}," + Environment.NewLine +
+                                                $"0b{getBinaryfromArray(z, 4)}," + Environment.NewLine +
+                                                $"0b{getBinaryfromArray(z, 5)}," + Environment.NewLine +
+                                                $"0b{getBinaryfromArray(z, 6)}," + Environment.NewLine +
+                                                $"0b{getBinaryfromArray(z, 7)}," + Environment.NewLine +
+                                                $"0b{getBinaryfromArray(z, 8)}{(char)125};" + Environment.NewLine + "//Variable");
                                             TB_Log.Text = s;
                                             ManageOperation.digitAssigned[z] = true;
                                       }
